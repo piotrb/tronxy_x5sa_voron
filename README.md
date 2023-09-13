@@ -66,7 +66,7 @@ ah the AB mounts will have to be redesigned .. they need to make room for the 20
 
 ## Trident Z Frame
 
-> [!Terms]
+> [!NOTE]
 > * `X Beam` - the long extrusion along the front of the bed
 > * `Y Bar` - the short extrusion from the X Beam towards the back rail
 
