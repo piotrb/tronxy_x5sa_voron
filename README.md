@@ -41,34 +41,40 @@ BOM:
 
 # Notes:
 
-Notes of Skirt:
+## Notes of Skirt
 
 * Depth is 10mm less .. which means I may have to use the 300mm spec side skirts .. and find a way to patch the gap .. 
 * Width is 20mm more .. which means I will have to use the 350mm spec front/back center pieces, but stretch them by 20mm
 
-Notes for XY:
+## Notes for XY
 
-Cross-bar length:	420mm
-Back Bar length	360mm
+I'm making up a few names .. I should look up what the voron folks call them in the CAD :)
 
-The depth of the cross bar seems to be ~105mm in the tident CAD
-So I'd lose that from the max print size .. but I guess that's ok .. 
+`Cross-bar` - the horizontal beams along which the XY gantry moves (x2)
+`Back Bar` - the short piece of extrusion in the back where the AB motors are mounted
+
+* Cross-bar length: 420mm
+* Back Bar length: 360mm
+
+The depth of the cross bar seems to be ~105mm in the tident CAD .. So I'd lose that from the max print size .. but I guess that's ok .. 
 
 ah the AB mounts will have to be redesigned .. they need to make room for the 2040 extrusion
 
-Trident Z Frame:
-X Beam	490	
-Y Bar	202	cut an extra 20mm since the tronxy frame uses 2040 along its depth
-Trident Y Bar Length	232	
-Tridemt Y Bar Space	238	
+## Trident Z Frame
 
-1.8 Z Frame:
-this uses 2 X beams	490	(same size as trident, just 2x)
-and 2 Y Bars		the CAD has this at 150mm .. at least for the 250mm model .. 
-		this is based on the guide rail spacing too .. 
-		generaly seems like a  more finicky setup
-y-bar length	200
+`X Beam` - the long extrusion along the front of the bed
+`Y Bar` - the short extrusion from the X Beam towards the back rail
 
-Z Rails:
-Frame Z Inner Height	530			
-Without the upper section (and its extrusion)	405	ok so I'd need 3x 400mm rails		-- at spool3d that's ~$122.09
+X Beam lengh: 490mm
+Y Bar: 202mm
+
+## 1.8 Z Frame
+this uses 2 `X Beams`: 490mm (same size as trident, just 2x)
+and 2 `Y Bars`: the CAD has this at 150mm .. at least for the 250mm model .. 
+Y Bar length: 200mm
+
+## Trident Z Rails
+Frame Z Inner Height: 530			
+Without the upper section (and its extrusion): 405 mm
+ok so I'd need 3x 400mm rails for the full Trident setup
+-- at spool3d that's ~$122.09
