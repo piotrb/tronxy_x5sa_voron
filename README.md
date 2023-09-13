@@ -22,7 +22,9 @@ BOM:
 
 > [!NOTE]
 > I will need to get a cross-bar for the back of the AB mount .. its an annoying size, so this will have to be aded to the BOM
-> I'm considering sourcing that from Ali .. it'll take a while .. but I could also grab all the extra extrusion bits for the full conversion .. 
+>
+> I'm considering sourcing that from Ali .. it'll take a while .. but I could also grab all the extra extrusion bits for the full conversion ..
+> 
 > I do have a bit of spare extrusion .. at 345mm .. 25mm short may be too much to hope for to be able to assemble the back beam .. so I may need that to be able to assemble the AB drive regardless ..
 
 * I'm expecting to need random hardware .. but I do have a bunch of that on hand .. so I'll see what I actually need to get .. I'll try to keep track of what I'm adding to the core kit for BOM purposes :)
