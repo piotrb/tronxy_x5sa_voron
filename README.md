@@ -24,6 +24,8 @@ BOM:
 ** I'm considering sourcing that from Ali .. it'll take a while .. but I could also grab all the extra extrusion bits for the full conversion .. 
 *** I do have a bit of spare extrusion .. at 345mm .. 25mm short may be too much to hope for to be able to assemble the back beam .. so I may need that to be able to assemble the AB drive regardless .. 
 
+* eventually, you'd need to add the AfterBurner / StealthBurner BOM as desired
+
 ## Phases
 
 1. The first phase will be just assembling the frame and seeing what I need to make designs for
@@ -31,7 +33,9 @@ BOM:
 3. I will need to re-design the Z system .. at first without cutting the rods .. I'll try to frankenstein something between the V1.8 Bed mount
 4. I will definitely need to tweak some parts of the skirts .. it should be just adding some extensions .. so it shouldn't be too bad
 5. I will definitely need to tweak some parts of the AB drive mount
-6. The 
+6. The plan is to potentially transition between a V1.8 style Z, to a full 3 stepper Trident design gradually without wasting materials. Ideally I can get this thing serviceable and fully enclosed in V1.8 mode.
+7. I do want to basically entirely use the Trident style skirt system, for the taller bottom electronics bay, with DIN rails and all that
+8. As this thing nears working state, I'll initially probably install my old AfterBurner (because I literally have it sitting in a box) .. and eventually replace that with a SB
 
 # Notes:
 
