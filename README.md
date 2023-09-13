@@ -66,9 +66,9 @@ ah the AB mounts will have to be redesigned .. they need to make room for the 20
 
 ## Trident Z Frame
 
-Terms:
-* `X Beam` - the long extrusion along the front of the bed
-* `Y Bar` - the short extrusion from the X Beam towards the back rail
+> [!Terms]
+> * `X Beam` - the long extrusion along the front of the bed
+> * `Y Bar` - the short extrusion from the X Beam towards the back rail
 
 * X Beam lengh: 490mm
 * Y Bar: 202mm
