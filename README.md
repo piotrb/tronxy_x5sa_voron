@@ -53,9 +53,9 @@ BOM:
 
 I'm making up a few names .. I should look up what the voron folks call them in the CAD :)
 
-Terms:
-* `Cross-bar` - the horizontal beams along which the XY gantry moves (x2)
-* `Back Bar` - the short piece of extrusion in the back where the AB motors are mounted
+> [!NOTE]
+> `Cross-bar` - the horizontal beams along which the XY gantry moves (x2)<br/>
+> `Back Bar` - the short piece of extrusion in the back where the AB motors are mounted
 
 * Cross-bar length: 420mm
 * Back Bar length: 360mm
@@ -67,8 +67,8 @@ ah the AB mounts will have to be redesigned .. they need to make room for the 20
 ## Trident Z Frame
 
 > [!NOTE]
-> * `X Beam` - the long extrusion along the front of the bed
-> * `Y Bar` - the short extrusion from the X Beam towards the back rail
+> `X Beam` - the long extrusion along the front of the bed<br/>
+> `Y Bar` - the short extrusion from the X Beam towards the back rail
 
 * X Beam lengh: 490mm
 * Y Bar: 202mm
