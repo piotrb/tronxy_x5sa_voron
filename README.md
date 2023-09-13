@@ -53,8 +53,9 @@ BOM:
 
 I'm making up a few names .. I should look up what the voron folks call them in the CAD :)
 
-`Cross-bar` - the horizontal beams along which the XY gantry moves (x2)
-`Back Bar` - the short piece of extrusion in the back where the AB motors are mounted
+Terms:
+* `Cross-bar` - the horizontal beams along which the XY gantry moves (x2)
+* `Back Bar` - the short piece of extrusion in the back where the AB motors are mounted
 
 * Cross-bar length: 420mm
 * Back Bar length: 360mm
@@ -65,19 +66,22 @@ ah the AB mounts will have to be redesigned .. they need to make room for the 20
 
 ## Trident Z Frame
 
-`X Beam` - the long extrusion along the front of the bed
-`Y Bar` - the short extrusion from the X Beam towards the back rail
+Terms:
+* `X Beam` - the long extrusion along the front of the bed
+* `Y Bar` - the short extrusion from the X Beam towards the back rail
 
-X Beam lengh: 490mm
-Y Bar: 202mm
+* X Beam lengh: 490mm
+* Y Bar: 202mm
 
 ## 1.8 Z Frame
-this uses 2 `X Beams`: 490mm (same size as trident, just 2x)
-and 2 `Y Bars`: the CAD has this at 150mm .. at least for the 250mm model .. 
-Y Bar length: 200mm
+
+* this uses 2 `X Beams`: 490mm (same size as trident, just 2x)
+* and 2 `Y Bars`: the CAD has this at 150mm .. at least for the 250mm model .. 
+* Y Bar length: 200mm
 
 ## Trident Z Rails
-Frame Z Inner Height: 530			
-Without the upper section (and its extrusion): 405 mm
-ok so I'd need 3x 400mm rails for the full Trident setup
--- at spool3d that's ~$122.09
+
+* Frame Z Inner Height: 530			
+* Without the upper section (and its extrusion): 405 mm
+* ok so I'd need 3x 400mm rails for the full Trident setup
+  * at spool3d that's ~$122.09
