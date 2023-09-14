@@ -42,6 +42,18 @@ BOM:
 7. I do want to basically entirely use the Trident style skirt system, for the taller bottom electronics bay, with DIN rails and all that
 8. As this thing nears working state, I'll initially probably install my old AfterBurner (because I literally have it sitting in a box) .. and eventually replace that with a SB
 
+## Phase 1: Frame + Legs
+
+Materials Used:
+* M3x6 BHCS x12 (for attaching the accent to the legs)
+* M5x16 BHCS x4 (for the actual rubber feet)
+* M5 Nut x 4 (also for the rubber feet)
+* The Tronxy rubber feet x4 (you can easily put a M5 screw through them)
+* M5 T-Nut x4
+* M3 T-Nut x4
+* M5x10 BHCS x 4
+* M3x8 SHCS x 4
+
 # Notes:
 
 ## Notes of Skirt
