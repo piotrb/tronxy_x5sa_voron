@@ -85,3 +85,50 @@ ah the AB mounts will have to be redesigned .. they need to make room for the 20
 * Without the upper section (and its extrusion): 405 mm
 * ok so I'd need 3x 400mm rails for the full Trident setup
   * at spool3d that's ~$122.09
+
+## Taking apart the Tronxy BOM
+
+First impressions:
+Damn that's a substantially bigger print bed!
+
+Frame:
+* 2040 530mm x4
+* 2020 530mm x4
+* 2020 460mm x4
+
+X Gantry:
+* 2020 485mm x1
+
+Z Motion:
+Linear Rod - 8mm - 527m long - x4
+Screw 8mm (M8?) - 450mm x 2
+
+---
+
+**Trident Frame Bom: (blind joints)**
+
+Misumi HFSB5-2020-470-TPW	9 - top/bottom/X
+
+Misumi HFSB5-2020-500-LCP-RCP-AV360	4 - verticals
+
+Misumi HFSB5-2020-470-AH235-TPW	1
+Misumi HFSB5-2020-470-AH235	1
+
+Misumi HFSB5-2020-430	1
+Misumi HFSB5-2020-340	1
+Misumi HFSB5-2020-332-LTP	1
+Misumi HFSB5-2020-330-LTP	1
+
+**Corner Cubes Version:**
+
+Misumi HFSB5-2020-470-TPW	9 - top/bottom/X?
+
+Misumi HFSB5-2020-460-AV340-TPW	4 - verticals
+
+Misumi HFSB5-2020-470-AH235-TPW	1
+Misumi HFSB5-2020-470-AH235	1
+
+Misumi HFSB5-2020-430	1
+Misumi HFSB5-2020-340	1
+Misumi HFSB5-2020-332-LTP	1
+Misumi HFSB5-2020-330-LTP
