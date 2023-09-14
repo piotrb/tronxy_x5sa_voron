@@ -51,7 +51,7 @@ Materials Used:
 * The Tronxy rubber feet x4 (you can easily put a M5 screw through them)
 * M5 T-Nut x4
 * M3 T-Nut x4
-* M5x10 BHCS x 4
+* M5x10 BHCS x 4 (or a couple of washers and a M5x12 .. its for the legs .. probably doesn't need to be that perfect)
 * M3x8 SHCS x 4
 
 # Notes:
