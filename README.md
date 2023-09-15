@@ -154,3 +154,9 @@ Misumi HFSB5-2020-430	1
 Misumi HFSB5-2020-340	1
 Misumi HFSB5-2020-332-LTP	1
 Misumi HFSB5-2020-330-LTP
+
+
+# Credits & Achnowledgememnts
+
+* [Sanity Agathion](https://forum.vorondesign.com/members/sanity-agathion.13/) on the VoronDesign Forum for encouraging me to go through with this build
+* [@MatthewSitton](https://www.printables.com/@MatthewSitton_362947) on Printables for the amazong [TronXY X5SA CAD](https://www.printables.com/model/372048-tronxy-x5sa-full-cad-model) which made starting out on the Voron-izing work so much easier.
