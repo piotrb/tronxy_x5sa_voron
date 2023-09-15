@@ -54,6 +54,16 @@ Materials Used:
 * M5x10 BHCS x 4 (or a couple of washers and a M5x12 .. its for the legs .. probably doesn't need to be that perfect)
 * M3x8 SHCS x 4
 
+### New Z Frame
+
+The Plan is to re-use the original Aluminum square 10mm rods .. but to chop 20mm from each end .. 
+This will cut it just in the middle of the mounting screws, hopefully still giving a stable enough mount
+
+Then the idea is to replacate some hybrid of the 1.8 bed mount .. 
+
+One trick here is that the linear rods will have to be moved inward just a little bit (10mm) .. because the linear bearings that come with the TronXY have a wide base (30mm) .. so it has to partially move in
+
+
 # Notes:
 
 ## Notes of Skirt
