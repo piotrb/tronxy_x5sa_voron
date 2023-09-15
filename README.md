@@ -63,6 +63,11 @@ Then the idea is to replacate some hybrid of the 1.8 bed mount ..
 
 One trick here is that the linear rods will have to be moved inward just a little bit (10mm) .. because the linear bearings that come with the TronXY have a wide base (30mm) .. so it has to partially move in
 
+Ok so if I chop 32mm from each end of the front/back Bed frame bits .. 
+And then drill/tap some new holes in there .. 
+Then the original plate can be used .. this is good .. it'd allow that to be fairly sturdy
+
+So now I just need to design the new linear rod mounts to work with this
 
 # Notes:
 
