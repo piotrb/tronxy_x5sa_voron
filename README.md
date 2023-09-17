@@ -110,8 +110,9 @@ ah the AB mounts will have to be redesigned .. they need to make room for the 20
 
 * Frame Z Inner Height: 530			
 * Without the upper section (and its extrusion): 405 mm
-* ok so I'd need 3x 400mm rails for the full Trident setup
+* ok so I'd need 3x 400mm rails for the full Trident setup -- MGN9H
   * at spool3d that's ~$122.09
+
 
 ## Taking apart the Tronxy BOM
 
