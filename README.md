@@ -2,4 +2,4 @@
 
 Work in Progress
 
-See [Wiki](/wiki) for more information
+See [Wiki](../..//wiki) for more information
