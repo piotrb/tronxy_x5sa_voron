@@ -1,0 +1,1 @@
+My current build actually has a Knomi V1 screen in the center front .. it felt like a nice place to put it without overcomplicating my toolhead.
