@@ -9,7 +9,8 @@ I ended up re-using some of the hardware that came with the bed .. those 10x10 s
 Those 10x10 rods had to be cut down to size,
 
 This is what this all looks like assembled:
-![Bed Mount](./Bed Mount.png)
+
+![Bed Mount](Bed%20Mount.png)
 
 The pieces which fit around the 10x10 use a M5 25mm bolt, with a hex nut to secure it to the 10x10 rods.
 With standard M5x10 bolts going into T-nuts or insert nuts to attach them to the extrusions.
